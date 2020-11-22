@@ -1,1 +1,1 @@
-### JavaScript練習リポジトリ 
+### JavaScript練習用
