@@ -1,1 +1,1 @@
-### JavaScript練習用
+### JavaScript JQery練習用
